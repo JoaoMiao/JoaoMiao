@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bowen Jing</h1>
+<h1 align="center">Hi 👋, I'm João Gong Miao</h1>
 <h3 align="center">A passionate AI developper from Univerisity of Manchester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthur12137&label=Profile%20views&color=0e75b6&style=flat" alt="arthur12137" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthur12137" alt="arthur12137" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/arthur12137" target="blank"><img src="https://img.shields.io/twitter/follow/arthur12137?logo=twitter&style=for-the-badge" alt="arthur12137" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
